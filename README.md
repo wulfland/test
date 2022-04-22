@@ -1,1 +1,1 @@
-# Hello World Repo stupid text
+# Hello World Repo
