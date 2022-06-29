@@ -1,1 +1,1 @@
-Solving merge conflicts in git is easy
+Solving merge conflicts in git is very easy
