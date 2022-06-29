@@ -1,1 +1,2 @@
 Solving merge conflicts in git is very easy
+Adding line
