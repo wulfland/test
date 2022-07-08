@@ -1,0 +1,1 @@
+Solving merge conflicts in git is easy
